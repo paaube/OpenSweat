@@ -5,7 +5,7 @@ Open source sweat collector for athletes
 Structure:
  - code : code used for the Arduino
  - 3d_parts : 3D parts to 3D print
- - results : calibration and test result of the device
+ - test_results : calibration and test result of the device
 
 Requirements:
  - Arduino Nano
